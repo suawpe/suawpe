@@ -7,3 +7,5 @@
 
 ## 🔥 Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=suawpe&theme=dark)
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=312se3mwcjmdy2il6hx43qiftecy)
