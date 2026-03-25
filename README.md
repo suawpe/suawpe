@@ -1,4 +1,5 @@
-![Gif](https://github.com/user-attachments/assets/bbe5431d-dd12-4463-8481-00429ba92df0)
+<video src="https://github.com/user-attachments/assets/bbe5431d-dd12-4463-8481-00429ba92df0" autoplay loop muted playsinline style="max-width: 100%;">
+</video>
 
 ##
 
