@@ -1,6 +1,6 @@
-![GIF](https://i.pinimg.com/originals/e4/f1/f8/e4f1f81d515fc7a72937f3c00382eecd.gif)
+![Gif](https://github.com/user-attachments/assets/bbe5431d-dd12-4463-8481-00429ba92df0)
 
-## 
+##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suawpe&layout=compact&theme=dark)
 
