@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="600"
+     viewBox="0 0 900 600">
+
+  <defs>
+
+    <clipPath id="top">
+      <rect x="0" y="0" width="900" height="170"/>
+    </clipPath>
+
+    <clipPath id="center">
+      <rect x="0" y="170" width="900" height="250"/>
+    </clipPath>
+
+    <clipPath id="bottom">
+      <rect x="0" y="420" width="900" height="180"/>
+    </clipPath>
+
+  </defs>
+
+
+  <rect width="900" height="600" fill="#000"/>
+
+
+  <!-- fragmento superior -->
+  <image
+    href="https://collectionapi.metmuseum.org/api/collection/v1/iiif/336228/770914/main-image"
+    x="-15"
+    y="0"
+    width="900"
+    height="600"
+    opacity="0.85"
+    clip-path="url(#top)"
+  />
+
+
+  <!-- fragmento central -->
+  <image
+    href="https://collectionapi.metmuseum.org/api/collection/v1/iiif/336228/770914/main-image"
+    x="0"
+    y="0"
+    width="900"
+    height="600"
+    clip-path="url(#center)"
+  />
+
+
+  <!-- fragmento inferior -->
+  <image
+    href="https://collectionapi.metmuseum.org/api/collection/v1/iiif/336228/770914/main-image"
+    x="20"
+    y="0"
+    width="900"
+    height="600"
+    opacity="0.8"
+    clip-path="url(#bottom)"
+  />
+
+
+  <!-- linhas de ruptura -->
+  <rect x="0" y="167" width="900" height="5"
+        fill="white" opacity="0.18"/>
+
+  <rect x="0" y="418" width="900" height="4"
+        fill="white" opacity="0.15"/>
+
+
+  <!-- falhas -->
+  <rect x="40" y="250" width="120" height="8" fill="black"/>
+  <rect x="720" y="330" width="90" height="6" fill="black"/>
+
+
+</svg>
